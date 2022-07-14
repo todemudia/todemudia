@@ -1,5 +1,5 @@
 # 💫 About Me:
-👀 I’m interested in FullStack web development<br>💞️ I’m looking to collaborate on any web-based projects
+👀 I’m interested in whatever tech I can get my fingers on
 
 
 ## 🌐 Socials:
